@@ -1,0 +1,4 @@
+ember build
+cp browserstack.json dist/
+cd dist
+browserstack-runner
