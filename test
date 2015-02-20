@@ -1,5 +1,5 @@
 ember build
 cp browserstack.json dist/
 cd dist
-node node_modules/browserstack-runner/bin/cli
+node ../node_modules/browserstack-runner/bin/cli
 
