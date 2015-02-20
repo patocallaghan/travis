@@ -31,6 +31,6 @@
     "ember-export-application-global": "^1.0.0",
     "express": "^4.8.5",
     "glob": "^4.0.5",
-    "browserstack-runner": "git://github.com/patocallaghan/browserstack-runner#fix_config_build"
+    "browserstack-runner": "0.2.2"
   }
 }
